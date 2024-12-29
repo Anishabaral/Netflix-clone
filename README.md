@@ -1,7 +1,7 @@
 # Getting Started with Netflix clone
 
 ### `npm i`
-Install the packages for the project.\
+Install the packages for the project.
 
 In the project directory, you can run:
 ### `npm start`
